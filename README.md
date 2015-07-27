@@ -1,2 +1,3 @@
-# vegapp-resources
-VegApp resources
+# VegApp resources
+
+Here resources for VegApp are stored.
