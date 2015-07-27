@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="101.10305"
+   height="111.67912"
+   id="svg3138"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Leaf.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1436"
+     inkscape:window-height="877"
+     id="namedview3185"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3833333"
+     inkscape:cx="151.54848"
+     inkscape:cy="-36.548646"
+     inkscape:window-x="0"
+     inkscape:window-y="1459"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3138" />
+  <script />
+  <svg:title
+     id="title3140">Leaf</svg:title>
+  <svg:defs
+     id="defs3142">
+    <svg:linearGradient
+       id="linearGradient3263">
+      <svg:stop
+         stop-color="#224500"
+         id="stop3265"
+         offset="0" />
+      <svg:stop
+         stop-color="#224500"
+         stop-opacity="0"
+         id="stop3267"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient3207">
+      <svg:stop
+         stop-color="#ffffff"
+         id="stop3209"
+         offset="0" />
+      <svg:stop
+         stop-color="#eeeeec"
+         stop-opacity="0"
+         id="stop3211"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient3197">
+      <svg:stop
+         stop-color="#54a706"
+         id="stop3199"
+         offset="0" />
+      <svg:stop
+         stop-color="#3d7a04"
+         id="stop3201"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       y2="170.11588"
+       x2="1748.0565"
+       y1="318.68732"
+       x1="1590.2812"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3551"
+       xlink:href="#linearGradient3197" />
+    <svg:linearGradient
+       y2="350.91708"
+       x2="1199.0355"
+       y1="153.77422"
+       x1="1730.4641"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3553"
+       xlink:href="#linearGradient3263" />
+    <svg:linearGradient
+       y2="422.03989"
+       x2="1483.693"
+       y1="250.61133"
+       x1="1798.4908"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3555"
+       xlink:href="#linearGradient3263" />
+    <svg:linearGradient
+       y2="551.17975"
+       x2="1551.6326"
+       y1="365.46545"
+       x1="1924.1603"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3557"
+       xlink:href="#linearGradient3263" />
+    <svg:linearGradient
+       y2="-68.031296"
+       x2="1857.3458"
+       y1="145.07343"
+       x1="1722.6917"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3559"
+       xlink:href="#linearGradient3263" />
+    <svg:linearGradient
+       y2="-15.85597"
+       x2="2005.3066"
+       y1="241.03065"
+       x1="1826.5972"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3561"
+       xlink:href="#linearGradient3263" />
+    <svg:linearGradient
+       y2="62.190903"
+       x2="2122.718"
+       y1="346.46643"
+       x1="1916.9305"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3563"
+       xlink:href="#linearGradient3263" />
+    <svg:linearGradient
+       y2="-88.687538"
+       x2="1690.8154"
+       y1="60.628025"
+       x1="1635.8358"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3565"
+       xlink:href="#linearGradient3263" />
+    <svg:linearGradient
+       y2="324.40161"
+       x2="2153.7708"
+       y1="-55.598404"
+       x1="1490.2812"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3567"
+       xlink:href="#linearGradient3207" />
+    <svg:linearGradient
+       y2="490.62759"
+       x2="469.50687"
+       y1="114.62326"
+       x1="93.502563"
+       id="svg_3"
+       gradientTransform="scale(1.253759,0.79760143)"
+       gradientUnits="userSpaceOnUse">
+      <svg:stop
+         stop-color="#00bf00"
+         offset="0"
+         id="stop3163" />
+      <svg:stop
+         stop-color="#007f3f"
+         offset="1"
+         id="stop3165" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3263"
+       id="linearGradient3187"
+       gradientUnits="userSpaceOnUse"
+       x1="1916.9305"
+       y1="346.46643"
+       x2="2122.718"
+       y2="62.190903" />
+  </svg:defs>
+  <svg:metadata
+     id="metadata7">image/svg+xmlLeafleafplantgreenA simple green leaf.Carlos Asmat<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Leaf</dc:title>
+  </cc:Work>
+</rdf:RDF>
+</svg:metadata>
+  <svg:g
+     id="g3168"
+     transform="matrix(0.21821358,-0.11138773,0.11138773,0.21821358,-47.378293,30.142827)"
+     style="fill:#4caf50;fill-opacity:1;stroke:#000000;stroke-width:1.63266134;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+    <svg:title
+       id="title3170">Layer 1</svg:title>
+    <svg:path
+       transform="matrix(0.28849169,0.9574824,-0.9574824,0.28849169,416.33133,6.767688)"
+       stroke-miterlimit="4"
+       d="m 145.46298,86.833588 c 7.74378,25.530732 4.72147,70.060612 8.15929,113.867952 35.23535,118.82516 4.44378,144.74118 92.22886,279.48459 16.29071,0.35473 15.66434,-10.43607 15.90989,-51.67203 C 185.02844,356.01056 196.60646,201.5305 145.46298,86.833588 z"
+       id="path3511"
+       inkscape:connector-curvature="0"
+       style="fill:#4caf50;fill-opacity:1;stroke:#000000;stroke-width:1.63266134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <svg:path
+       transform="matrix(0.99250894,0.12217203,-0.12217203,0.99250894,32.133096,-41.311134)"
+       stroke-miterlimit="4"
+       d="M 583.6485,137.34026 C 173.26791,13.987144 47.056336,200.20592 163.683,292.16501 171.67775,409.39499 402.50583,472.90842 583.6485,137.34026 z"
+       id="path3513"
+       style="fill:#4caf50;fill-opacity:1;stroke:#000000;stroke-width:1.63266134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:connector-curvature="0" />
+    <svg:path
+       transform="matrix(0.99250894,0.12217203,-0.12217203,0.99250894,25.358638,-70.489277)"
+       stroke-miterlimit="4"
+       d="M 587.48566,171.54292 C 474.65808,200.38106 374.39801,232.65944 173.54843,326.93494"
+       id="path3515"
+       inkscape:connector-curvature="0"
+       style="opacity:0.38666705;fill:#4caf50;fill-opacity:1;stroke:#000000;stroke-width:1.63266134;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </svg:g>
+</svg:svg>
