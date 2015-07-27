@@ -1,0 +1,2 @@
+# vegapp-resources
+VegApp resources
